@@ -198,7 +198,7 @@ Why software testing is hard; input space partitioning, boundary testing, state 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_005f08_lec09))
+([PDF]({{< baseurl >}}/resources/mit6_005f08_lec09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +252,7 @@ Techniques for avoiding debugging: assertions, modular development with unit tes
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_005f08_lec12))
+([PDF]({{< baseurl >}}/resources/mit6_005f08_lec12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -396,7 +396,7 @@ Shared-memory and message-passing paradigms; race conditions and deadlock; using
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_005f08_lec20))
+([PDF]({{< baseurl >}}/resources/mit6_005f08_lec20))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +432,7 @@ Using a database to represent an object model; relational algebra and SQL; trans
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_005f08_lec22))
+([PDF]({{< baseurl >}}/resources/mit6_005f08_lec22))
 {{< tdclose >}}
 
 {{< trclose >}}
