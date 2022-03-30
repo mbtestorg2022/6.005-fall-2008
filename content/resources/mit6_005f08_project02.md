@@ -15,6 +15,7 @@ description: 'The purpose of this project is to help you gain experience in (1) 
   test suites; and (9) working collaboratively in a team.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-005-elements-of-software-construction-fall-2008/b79cb7dff427fb8ed9c1b1696cd49c99_MIT6_005f08_project02.pdf
 file_type: application/pdf
+parent_uid: 8ac69634-f91d-cfd0-a350-0a574f84274d
 resourcetype: Document
 title: 'Project 2: An abc Music Player'
 uid: b79cb7df-f427-fb8e-d9c1-b1696cd49c99
